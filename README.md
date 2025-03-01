@@ -29,9 +29,9 @@ We are building this project to store and retrieve important hospital data such 
 
 
 <b>Main web page :</b>
-![alt text]https://github.com/ManishYadavGawwalapally/mtsu-dbms-5560/blob/main/welcome%20page.png
+![alt text](https://github.com/ManishYadavGawwalapally/mtsu-dbms-5560/blob/main/welcome%20page.png)
 
 <b>Login dialog box :</b>
-![alt text]https://github.com/ManishYadavGawwalapally/mtsu-dbms-5560/blob/main/login.png
+![alt text](https://github.com/ManishYadavGawwalapally/mtsu-dbms-5560/blob/main/login.png)
 
 
