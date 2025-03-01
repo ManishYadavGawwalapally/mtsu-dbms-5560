@@ -18,7 +18,8 @@ We are building this project to store and retrieve important hospital data such 
 
 ## Technologies Used:
 - Database : **MySQL** 
-- Frontend : **HTML**, **CSS**, **Python**
+- Frontend : **HTML**, **CSS**, **JavaScript**
+- Backend : **Python Flask**
 
 
 ![image](https://github.com/user-attachments/assets/6074ce5b-7ccc-4568-b352-2d092e79a905)
