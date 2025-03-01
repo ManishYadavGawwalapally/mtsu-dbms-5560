@@ -23,3 +23,6 @@ We are building this project to store and retrieve important hospital data such 
 
 <b>Relational Schemas :</b>
 ![alt text](https://github.com/ManishYadavGawwalapally/mtsu-dbms-5560/blob/main/db%20schema.png)
+
+<b>ER Diagram :</b>
+![alt text](https://github.com/ManishYadavGawwalapally/mtsu-dbms-5560/blob/main/er.png)
