@@ -21,5 +21,5 @@ We are building this project to store and retrieve important hospital data such 
 - Frontend : **HTML**, **CSS**, **JavaScript**
 - Backend : **Python Flask**
 
-
-![image](https://github.com/user-attachments/assets/6074ce5b-7ccc-4568-b352-2d092e79a905)
+<b>Relational Schemas :</b>
+![alt text](https://github.com/ManishYadavGawwalapally/mtsu-dbms-5560/blob/main/db%20schema.png)
