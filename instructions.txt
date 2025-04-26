@@ -1,0 +1,55 @@
+
+
+This document specifies the setup environment for developing the 
+database web application.
+
+1. Tools required:
+
+XAMPP (for server)
+MySQL workbench (for database)
+Visual Studio code IDE (for writing and editing files)
+PHP (for scripting)
+
+2. Download and installation
+
+XAMPP
+
+-> Download URL: https://www.apachefriends.org/index.html
+-> Run the installer and choose apache and mysql.
+-> Complete the installation and launch XAMPP Control Panel.
+-> Start Apache and MySQL modules.
+
+MySQL Workbench
+
+-> Download URL: https://dev.mysql.com/downloads/workbench/
+-> Launch Workbench and connect to the default MySQL server.
+-> Set up a root user with a password during the installation.
+
+
+
+Visual Studio Code
+
+-> Download URL: https://code.visualstudio.com/
+-> Install the editor.
+
+
+Running the Application
+
+-> Place all PHP files inside htdocs/medilog under your XAMPP installation directory.
+-> Launch the XAMPP panel and start all the three servers.
+-> open a browser and go to the URL : http://localhost/medilog
+-> login with the credentials for doctor and patient as per tables in the db file
+
+
+
+github url: https://github.com/ManishYadavGawwalapally/mtsu-dbms-5560
+
+
+
+
+
+
+
+
+
+
